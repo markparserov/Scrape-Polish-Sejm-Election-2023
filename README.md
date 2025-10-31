@@ -1,1 +1,1 @@
-# parse-polish-sejm-elections
+# scrape-polish-sejm-elections
